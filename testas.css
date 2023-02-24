@@ -1,0 +1,133 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #74C69D;
+}
+
+.logo .header-top {
+    display: inline-block;
+    color: #FFF;
+}
+
+.nav {
+    float: right;
+    color: #FFF;
+}
+
+.header-main {
+    display: inline-block;
+}
+
+.header-text {
+    width: 50%;
+    color: #FFF;
+}
+
+.h-text1 {
+    font-family: "Work Sans";
+    font-size: 16px;
+    line-height: 20px;
+    line-height: 125%;
+    letter-spacing: 5px;
+    margin: 10px 20px;
+}
+
+.h-text2 {
+    font-family: "Crimson Text";
+    font-weight: bold;
+    font-size: 32px;
+    margin: 10px 20px;
+}
+
+.h-text3 {
+    font-family: "Work Sans";
+    margin: 10px 20px;
+}
+
+.header-btn {
+    font-family: "Work Sans";
+    font font-size: 16px;
+    background-color: #fff;
+    border: none;
+    color: #000;
+    margin: 10px 20px;
+    padding: 7px 30px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.header-image {
+    display: inline-block;
+    width: 50%;
+}
+
+.content-text {
+    margin: auto;
+    width: 30%;
+    padding: 40px;
+}
+
+.c-text1 {
+    font-family: "Work Sans";
+    font-size: 16px;
+    line-height: 20px;
+    line-height: 125%;
+    letter-spacing: 5px;
+    margin: 10px 20px;
+    text-align: center;
+    color: #74C69D;
+}
+
+.c-text2 {
+    font-family: "Crimson Text";
+    font-weight: bold;
+    font-size: 32px;
+    margin: 10px 20px;
+    text-align: center;
+}
+
+.c-text3 {
+    font-family: "Work Sans";
+    margin: 10px 20px;
+    text-align: center;
+}
+
+.brands {
+    display: inline-block;
+    width: 100%;
+}
+
+.content-btn {
+    margin: 50px;
+    font-family: "Work Sans";
+    font font-size: 16px;
+    background-color: #000;
+    border: none;
+    color: #fff;
+    padding: 7px 30px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.footer {
+    background-color: #74C69D;
+}
+
+.social-icons {
+    background-color: #74C69D;
+    padding: 20px;
+    float: left;
+    width: 100%;
+}
+
+.copyright {
+    background-color: #74C69D;
+    width: 100%;
+    padding: 20px;
+    color: #FFF;
+}
